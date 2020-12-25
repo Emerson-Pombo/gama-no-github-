@@ -1,0 +1,87 @@
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+hr,
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+
+html{
+    font-size: 100%;
+}
+
+ul{
+    list-style: none;
+}
+
+a,
+link,
+nav{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+a{
+    background-color: transparent;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    margin: 0;
+
+}
+
+button,
+input,
+select{
+    margin: 0;
+}
+
+button{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: inherit;
+    background: none;
+    font: inherit;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td,
+th,
+tr,
+caption,
+thead,
+tbody,
+tfoot{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+img,
+video{
+    height: auto;
+    max-width: 100%;
+}
